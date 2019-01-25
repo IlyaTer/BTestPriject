@@ -1,0 +1,15 @@
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/RestDbApiApplication.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/model/info/ArticleInfo.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/model/info/UserInfo.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/daointerfaces/CommentDao.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/model/Comment.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/controllers/info/Message.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/controllers/AddController.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/model/Article.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/daointerfaces/ArticleDao.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/model/info/CommentInfo.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/controllers/DeleteController.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/controllers/GetController.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/controllers/UpdateController.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/model/User.java
+/home/mr_user/NetBeansProjects/RestDbAPI/src/main/java/com/mycompany/RestDbAPI/daointerfaces/UserDao.java

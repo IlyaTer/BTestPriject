@@ -1,0 +1,15 @@
+com/mycompany/RestDbAPI/controllers/UpdateController.class
+com/mycompany/RestDbAPI/controllers/GetController.class
+com/mycompany/RestDbAPI/model/User.class
+com/mycompany/RestDbAPI/controllers/DeleteController.class
+com/mycompany/RestDbAPI/daointerfaces/CommentDao.class
+com/mycompany/RestDbAPI/model/Article.class
+com/mycompany/RestDbAPI/daointerfaces/ArticleDao.class
+com/mycompany/RestDbAPI/model/info/UserInfo.class
+com/mycompany/RestDbAPI/model/info/ArticleInfo.class
+com/mycompany/RestDbAPI/model/info/CommentInfo.class
+com/mycompany/RestDbAPI/daointerfaces/UserDao.class
+com/mycompany/RestDbAPI/RestDbApiApplication.class
+com/mycompany/RestDbAPI/model/Comment.class
+com/mycompany/RestDbAPI/controllers/AddController.class
+com/mycompany/RestDbAPI/controllers/info/Message.class
