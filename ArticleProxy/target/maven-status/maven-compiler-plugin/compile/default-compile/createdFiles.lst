@@ -1,0 +1,8 @@
+com/example/ArticleProxy/ArticleProxyApplication.class
+com/example/ArticleProxy/security/filters/token/service/TokenAuthenticationService.class
+com/example/ArticleProxy/user/details/service/UserDetailsServiceImpl.class
+com/example/ArticleProxy/security/WebSecurityConfig.class
+com/example/ArticleProxy/security/filters/JWTLoginFilter.class
+com/example/ArticleProxy/security/filters/JWTAuthenticationFilter.class
+com/example/ArticleProxy/model/user/dao/UserDao.class
+com/example/ArticleProxy/model/user/User.class

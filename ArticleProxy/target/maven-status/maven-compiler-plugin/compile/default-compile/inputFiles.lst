@@ -1,0 +1,9 @@
+/home/mr_user/NetBeansProjects/ArticleProxy/src/main/java/com/example/ArticleProxy/security/WebSecurityConfig.java
+/home/mr_user/NetBeansProjects/ArticleProxy/src/main/java/com/example/ArticleProxy/model/user/User.java
+/home/mr_user/NetBeansProjects/ArticleProxy/src/main/java/com/example/ArticleProxy/controllers/test.java
+/home/mr_user/NetBeansProjects/ArticleProxy/src/main/java/com/example/ArticleProxy/ArticleProxyApplication.java
+/home/mr_user/NetBeansProjects/ArticleProxy/src/main/java/com/example/ArticleProxy/security/filters/JWTAuthenticationFilter.java
+/home/mr_user/NetBeansProjects/ArticleProxy/src/main/java/com/example/ArticleProxy/user/details/service/UserDetailsServiceImpl.java
+/home/mr_user/NetBeansProjects/ArticleProxy/src/main/java/com/example/ArticleProxy/security/filters/JWTLoginFilter.java
+/home/mr_user/NetBeansProjects/ArticleProxy/src/main/java/com/example/ArticleProxy/model/user/dao/UserDao.java
+/home/mr_user/NetBeansProjects/ArticleProxy/src/main/java/com/example/ArticleProxy/security/filters/token/service/TokenAuthenticationService.java
